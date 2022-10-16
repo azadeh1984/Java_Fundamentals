@@ -5,6 +5,6 @@ public class Ex4 {
         int num1 = 24;
         int num2 = 6;
         int division = num1/num2;
-        System.out.println("Result"+ division);
+        System.out.println("Result:"+ division);
     }
 }

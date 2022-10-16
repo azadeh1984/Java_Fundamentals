@@ -5,6 +5,6 @@ public class Ex5 {
         int num1 = 55;
         int  num2 = 12;
         int minus = num1 - num2;
-        System.out.println("Result"+ minus);
+        System.out.println("Result:"+ minus);
     }
 }
